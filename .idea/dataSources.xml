@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SS_Live_SS@story-for-admin.work" uuid="6ff3456c-8dde-4bd2-b1c7-71bea65d060a">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://story-for-admin.work:7878/SS_Live_SS</jdbc-url>
+    </data-source>
+  </component>
+</project>

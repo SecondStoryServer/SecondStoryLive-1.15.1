@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ec21bb-fcb3-49d9-8ca9-64dae9cf799e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SS_Live_SS@story-for-admin.work" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SS_Live_SS@story-for-admin.work" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SS_Live_SS@story-for-admin.work" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SS_Live_SS: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SecondStoryLive" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Object" />
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVqSCY4raHl36mvFWmTl3yxgff" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin/me/syari/sec_story/paper/live/command" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SecondStoryPerm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Folder\SecondStory\plugin\paper\1.15.1\SecondStoryLive\jar-lib" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="me.syari.sec_story.paper.library.world" />
+      <recent name="me.syari.sec_story.paper.live.land.city" />
+      <recent name="me.syari.sec_story.paper.live.land.type" />
+      <recent name="me.syari.sec_story.paper.library.world.region" />
+      <recent name="me.syari.sec_story.paper.library.event.sign" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Folder\SecondStory\plugin\paper\1.15.1\SecondStoryLive\src\main\kotlin\me\syari\sec_story\paper\live" />
+      <recent name="C:\Folder\SecondStory\plugin\paper\1.15.1\SecondStoryLibrary\src\main\kotlin\me\syari\sec_story\paper\library" />
+      <recent name="C:\Folder\SecondStory\plugin\paper\1.15.1\SecondStoryLive\src\main\kotlin\me\syari\sec_story\paper\live\hook" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SecondStoryLive [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SecondStoryLive [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ec21bb-fcb3-49d9-8ca9-64dae9cf799e" name="Default Changelist" comment="" />
+      <created>1577348607399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577348607399</updated>
+      <workItem from="1577348608792" duration="421000" />
+      <workItem from="1577349230626" duration="1650000" />
+      <workItem from="1577419509879" duration="22256000" />
+      <workItem from="1577499030365" duration="56962000" />
+      <workItem from="1577668078865" duration="24285000" />
+      <workItem from="1577768071497" duration="23275000" />
+      <workItem from="1577867642152" duration="19263000" />
+      <workItem from="1577951797161" duration="371000" />
+      <workItem from="1577963625151" duration="4675000" />
+      <workItem from="1578038023071" duration="19500000" />
+      <workItem from="1578103529378" duration="55086000" />
+      <workItem from="1578271482136" duration="817000" />
+      <workItem from="1578400081433" duration="490000" />
+      <workItem from="1578400649244" duration="1441000" />
+      <workItem from="1578402191795" duration="8066000" />
+      <workItem from="1578464911972" duration="155000" />
+      <workItem from="1578902274014" duration="9612000" />
+      <workItem from="1578918910029" duration="1921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="20" key="#Deployment" timestamp="1578909037356">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="20" key="#Deployment/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578909037356" />
+    <state x="233" y="20" key="#SQL_Dialects" timestamp="1578912054304">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="20" key="#SQL_Dialects/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912054304" />
+    <state x="191" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578403291070">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="191" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578403291070" />
+    <state x="432" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1578233789706">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="432" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578233789706" />
+    <state x="175" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578126481459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="175" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578126481459" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578205159673">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578205159673" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578904465385">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578904465385" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1577350748560" />
+    <state x="213" y="0" width="1001" height="680" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1578205150825">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="213" y="0" width="1001" height="680" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578205150825" />
+    <state x="399" y="119" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578406770419">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="399" y="119" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578406770419" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1578929182765">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578929182765" />
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578465056828" />
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577671879941" />
+    <state width="1237" height="220" key="GridCell.Tab.0.center" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577671879940" />
+    <state width="1237" height="220" key="GridCell.Tab.0.left" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577671879940" />
+    <state width="1237" height="220" key="GridCell.Tab.0.right" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577671879941" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1578912744929">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578912744929" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1578051366834">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578051366834" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1578406688813">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578406688813" />
+    <state x="446" y="138" key="chooseDestDirectoryDialog" timestamp="1578040471394">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="138" key="chooseDestDirectoryDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578040471394" />
+    <state x="396" y="206" key="cloudConfig.PluginsDialog" timestamp="1578400514137">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="396" y="206" key="cloudConfig.PluginsDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578400514137" />
+    <state x="396" y="206" key="cloudConfig.SelfSettingsDialog" timestamp="1578400556791">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="396" y="206" key="cloudConfig.SelfSettingsDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578400556791" />
+    <state x="498" y="110" width="322" height="500" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578227910247">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="498" y="110" width="322" height="500" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578227910247" />
+    <state x="221" y="15" key="com.intellij.database.dbimport.ImportDialog" timestamp="1577807281880">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="221" y="15" key="com.intellij.database.dbimport.ImportDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1577807281880" />
+    <state x="371" y="165" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1577807278143">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="165" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1577807278143" />
+    <state x="438" y="185" width="404" height="342" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1578138607912">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="438" y="185" width="404" height="342" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578138607912" />
+    <state x="508" y="107" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1578051377692">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="508" y="107" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578051377692" />
+    <state x="175" y="65" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1578221743180">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="175" y="65" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578221743180" />
+    <state x="271" y="62" width="810" height="596" key="find.popup" timestamp="1578240381976">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="271" y="62" width="810" height="596" key="find.popup/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578240381976" />
+    <state x="271" y="62" width="739" height="596" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577350697098" />
+    <state x="91" y="0" key="new project wizard" timestamp="1578465051822">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1577791021177" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1578465051822" />
+    <state x="383" y="4" key="refactoring.ChangeSignatureDialog" timestamp="1578910196461">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="383" y="4" key="refactoring.ChangeSignatureDialog/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578910196461" />
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup" timestamp="1578400216087">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578400216087" />
+    <state x="297" y="14" width="672" height="676" key="search.everywhere.popup" timestamp="1578905400247">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="14" width="672" height="676" key="search.everywhere.popup/0.0.1280.720/1920.0.1280.720@0.0.1280.720" timestamp="1578905400247" />
+    <state x="297" y="14" width="672" height="676" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577671473213" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="SecondStoryLive" type="b2602c69:ProjectViewProjectNode" />
+        <item name="SecondStoryLive" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

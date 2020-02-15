@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be88b65c-f134-434d-a535-a04894d7ca2a" name="SecondStory" url="http://story-for-admin.work">
+        <fileTransfer host="story-for-admin.work" port="3434" rootFolder="/Live15/plugins" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="3434" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
